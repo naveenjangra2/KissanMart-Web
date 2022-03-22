@@ -29,9 +29,6 @@
 						<div class="round-shape-two"><img src="<?=base_url()?>assets/images/icon/4.png" alt=""></div>
 						<div class="round-shape-three"></div>
 						<div class="container">
-							<pre>
-								<?php print_r($crops); ?>
-							</pre>
 							<div class="main-text-wrapper">
 								<h1>Leading the next big <br>agri-innovation.</h1>
 								<p>At Kisaan Mart, we're transforming the agri value<br> chain through technology. For small farm owners,<br> we enable digital access to a wider marketplace. </p>
